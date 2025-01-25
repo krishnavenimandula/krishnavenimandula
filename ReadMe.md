@@ -11,7 +11,7 @@ I'm a full-stack developer with a passion for building scalable web applications
 - CSS
 
 ## Recent Projects:
-- [flixit - Digital Media Platform like netflix](https://github.com/krishnavenimandula/flixxit): It is a like a OTT platform where we can see the latest movies (Ofcourse create with public api https://developer.themoviedb.org/reference/intro/getting-started).
+- [flixit - Digital Media Platform like netflix](https://github.com/krishnavenimandula/flixxit): It is a like a OTT platform where we can watch movies (Ofcourse create with public api https://developer.themoviedb.org/reference/intro/getting-started).
 - I have created resources for my skills.
 
 ## Let's Connect:
